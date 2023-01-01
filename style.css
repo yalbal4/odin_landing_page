@@ -96,3 +96,15 @@
 .author {
     align-self: flex-end;
 }
+
+.action-container {
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px dotted blue;
+}
+
+.action-container button {
+    align-self: center;
+    height: 40%;
+    width: auto;
+}
