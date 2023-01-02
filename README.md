@@ -3,6 +3,10 @@ Odin Project Landing Page project
 
 This project makes a landing page for a website. This is a demonstration of basic css, especially flexbox.
 
-image credits: from top of the page to bottom
+image credits:
 
 mahmoud-fawzy sushi roll
+amirali-mirhashemian burger
+chad-montano pizza
+mulan-sukrisno dimsum
+dovile-ramoskaite icecream

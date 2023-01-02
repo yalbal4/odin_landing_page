@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 32px;
+    background-color: #1F2937;
 }
 
 .header-links {
@@ -15,7 +16,7 @@
     display: flex;
     justify-content: space-between;
     padding: 32px;
-    
+    background-color: #1F2937;
 }
 
 .top-statement {
@@ -24,7 +25,6 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
-    border: 3px solid black;
 }
 
 .top-statement h1 {
@@ -36,9 +36,7 @@
 }
 
 .top-image {
-    border: 3px solid black;
     flex-basis: 49%;
-    
 }
 .ant-esp-sushi {
     max-width: 100%;
@@ -50,6 +48,7 @@
     width: 25%;
     height: 15%;
     border-radius: 12px;
+    background-color: #3882F6;
 }
 
 .card img {
@@ -97,14 +96,30 @@
     align-self: flex-end;
 }
 
+.action-section {
+    display: flex;
+    justify-content: center;
+}
+
 .action-container {
     display: flex;
     justify-content: space-evenly;
-    border: 3px dotted blue;
+    padding: 32px;
+    margin: 64px;
+    width: 60%;
+    background-color: #3882F6;
 }
 
 .action-container button {
     align-self: center;
     height: 40%;
     width: auto;
+}
+
+.off-white-color {
+    color: #F9FAF8;
+}
+
+.color-light-gray {
+    color: #E5E7EB;
 }
