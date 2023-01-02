@@ -49,6 +49,8 @@
     height: 15%;
     border-radius: 12px;
     background-color: #3882F6;
+    font-size: 28px;
+    font-weight: 900;
 }
 
 .card img {
