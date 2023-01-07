@@ -125,6 +125,16 @@
     border: 2px solid #F9FAF8;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937
+}
+
+.footer p {
+    color: #F9FAF8
+}
+
 .action-content h1,
 .action-content p {
     color:#F9FAF8
